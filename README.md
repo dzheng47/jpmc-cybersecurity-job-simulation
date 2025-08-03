@@ -3,64 +3,67 @@
 **Daniel Zheng**  
 Completion Date — April 23, 2024  
 [View Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._fbiKv5y5xLLQed9Y5_1713900518444_completion_certificate.pdf)  
-Platform: Forage (formerly InsideSherpa)  
+Platform: Forage  
 Role Simulated: Cybersecurity Analyst
 
 ---
 
 ## Overview
 
-The JPMorgan Chase & Co. Cybersecurity Job Simulation provided a practical, immersive experience to build foundational cybersecurity skills by working through real-world challenges. Over the course of April 2024, I completed four hands-on projects spanning fraud detection, application security, machine learning email classification, and access management. These projects strengthened my technical abilities and expanded my understanding of key cybersecurity principles.
+This virtual job simulation offered a hands-on introduction to cybersecurity fundamentals through four structured tasks. Each task simulated a real-world problem faced by professionals in the field — ranging from fraud detection to access management. Deliverables included code, written analysis, and conceptual design.
+
+All tasks were completed in April 2024 using Python, Jupyter notebooks, and various data science tools. Tasks 1, 3, and 4 include working code files. Task 2 was research-based only, without coding deliverables.
 
 ---
 
-## Projects Summary
+## Project Breakdown
 
-### 1. Financial Fraud Detection Analysis  
-- Analyzed a large dataset of mobile money transactions to identify fraudulent patterns and flagged activities.  
-- Explored transaction types and evaluated automated fraud detection performance.  
-- **Technologies:** Python, Pandas, Matplotlib  
-- **Skills:** Data analysis, visualization, anomaly detection, risk assessment  
+### ✅ Task 1: Financial Fraud Detection
+- Explored and visualized mobile money transactions to detect suspicious behavior.
+- Analyzed fraud distribution across transaction types and evaluated ML-driven flagging performance.
+- **Tech Used:** Python, Pandas, Matplotlib
+- **Skills:** Data analysis, anomaly detection, fraud pattern recognition  
+- 📁 `task1.ipynb`
 
-### 2. Application Security Fundamentals  
-- Studied core cybersecurity principles including authentication mechanisms like Multi-Factor Authentication (MFA) and One-Time Passwords (OTP).  
-- Learned about common web vulnerabilities based on OWASP Top 10 guidelines and mitigation strategies.  
-- **Technologies:** Python, Django (conceptual study)  
-- **Skills:** Secure coding principles, authentication best practices, threat awareness  
+### 📘 Task 2: Application Security Fundamentals _(Research Only)_
+- Studied authentication systems (MFA, OTP), OWASP Top 10 vulnerabilities, and secure coding practices.
+- This task involved reading and summarizing best practices — no code files were required.
+- **Tech Studied:** Python, Django (conceptual)
+- **Skills:** Threat modeling, secure design, authentication strategy  
 
-### 3. Machine Learning Email Classifier  
-- Built a Business Email Compromise (BEC) detection system using machine learning to classify spam versus legitimate emails.  
-- Processed and extracted features from email data such as content, headers, and attachments.  
-- Trained and evaluated models using logistic regression, decision trees, random forests, and neural networks.  
-- **Technologies:** Python, Pandas, Scikit-learn  
-- **Skills:** Data preprocessing, feature engineering, classification modeling, performance evaluation  
+### ✅ Task 3: Business Email Compromise Classifier
+- Built and tested a machine learning pipeline to classify emails as spam or safe.
+- Compared multiple models including Logistic Regression, Decision Tree, and Random Forest.
+- **Tech Used:** Python, Pandas, Scikit-learn
+- **Skills:** ML modeling, feature engineering, classification metrics  
+- 📁 `task3.ipynb`
 
-### 4. User Access Management System  
-- Designed a role management system enforcing the Principle of Least Privilege by limiting active roles per user.  
-- Implemented caching and automation logic to manage role assignments and removals efficiently.  
-- Analyzed time and space complexity of the system’s operations.  
-- **Technologies:** Python, Data Structures (dictionaries, lists)  
-- **Skills:** Access control, role-based access management, algorithmic thinking, security governance  
+### ✅ Task 4: Role-Based Access Management System
+- Developed a system enforcing the Principle of Least Privilege using dynamic role constraints.
+- Used Python data structures to manage and update user roles with time/space analysis.
+- **Tech Used:** Python
+- **Skills:** Access control logic, algorithm optimization, system design  
+- 📄 `task4.py`
 
 ---
 
 ## Key Takeaways
 
-- Hands-on experience analyzing large datasets and extracting actionable cybersecurity insights.  
-- Strengthened foundation in application security and real-world threat mitigation techniques.  
-- Practical application of machine learning for automated threat detection.  
-- Deeper understanding of identity and access management best practices.  
-- Improved coding skills in Python along with data manipulation and visualization.  
+- Strengthened Python and data analysis skills through cybersecurity-focused use cases.
+- Gained practical exposure to threat detection, identity management, and application security.
+- Developed both technical implementations and conceptual understanding of best practices.
+- Reinforced knowledge of data science workflows and secure system design.
 
 ---
 
 ## Notes
 
-- Projects were primarily conducted using Jupyter notebooks for interactive data analysis and development.  
-- Task 2 was a conceptual study involving extensive research on cybersecurity fundamentals without direct application development.
+- Files were developed using Jupyter Notebooks and Python scripts.
+- Task 2 remains research-only; no folder or `.ipynb` file was submitted or required.
 
 ---
 
 ## License
 
 This README is provided under the MIT License for educational and documentation purposes.
+
