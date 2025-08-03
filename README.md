@@ -1,7 +1,7 @@
 # JPMorgan Chase & Co. Cybersecurity Job Simulation
 
 **Daniel Zheng**  
-Certificate of Completion — April 23, 2024  
+Completion Date — April 23, 2024  
 [View Certificate of Completion](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/gWbW5qHAChqQBGWpA_JPMorgan%20Chase%20&%20Co._fbiKv5y5xLLQed9Y5_1713900518444_completion_certificate.pdf)  
 Platform: Forage (formerly InsideSherpa)  
 Role Simulated: Cybersecurity Analyst
